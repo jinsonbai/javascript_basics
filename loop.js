@@ -13,7 +13,7 @@ let fruits = ["apple", "orange","grapes", "orange","banana"]
 //     console.log(x);
 // }
 // fruits.forEach(element => {
-//     console.log(element)gvgvjbh
+//     console.log(element)
 // });
 
 let person = {
