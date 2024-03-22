@@ -9,7 +9,7 @@ let fruits = ["apple", "orange","grapes", "orange","banana"]
 // for (let index = 0; index < fruits.length; index++) {
 //        console.log(fruits[index]);
 // }
-// for(x of fruits){
+// for(x of fruits){dvdsv
 //     console.log(x);
 // }
 // fruits.forEach(element => {
