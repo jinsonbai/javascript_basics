@@ -48,3 +48,9 @@ do {
     console.log(p);
     p++;
 } while (p<6);
+// checking need to remove
+do {
+    console.log(p);
+    p++;
+} while (p<6);
+// demo
